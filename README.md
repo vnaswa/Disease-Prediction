@@ -1,7 +1,3 @@
-Here’s an expanded version of the GitHub project description:
-
----
-
 # Disease Prediction Using Machine Learning
 
 This project is a **Disease Prediction System** that uses machine learning algorithms to diagnose diseases based on symptoms provided by the user. It is designed to predict possible diseases using three different models: **Decision Tree**, **Random Forest**, and **Naive Bayes**. The system features a **Graphical User Interface (GUI)** created using **Tkinter**, making it easy for users to input symptoms and get predictions.
